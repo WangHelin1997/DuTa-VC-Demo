@@ -1,4 +1,4 @@
-# Demo for Du-N2DVC: A Duration-aware Normal-to-dysarthric Voice Conversion Approach with Diffusion Probabilistic Model
+# Demo for DuTa-VC: A Duration-aware Typical-to-atypical Voice Conversion Approach with Diffusion Probabilistic Model
 
 ## Instructions
 Download the folder and open ```index.html```.
